@@ -2,14 +2,14 @@
 ![image.png](./public/preview.png)
 
 ## Índice
-* [Introdução](#⚙️-introdução)
-* [Tecnologias utilizadas](#🖥️-tecnologias-utilizadas)
-* [Ferramentas utilizadas](#🛠️-ferramentas-utilizadas)
-* [Serviços utilizados](#🧰-serviços-utilizados)
-* [Funcionalidades do projeto](#🪚-funcionalidades-do-projeto)
-* [Acesso ao projeto](#📂-acesso-ao-projeto)
-* [Autor](#👤-autor)
-* [Contato](#✉️-contato)
+* [Introdução](#%EF%B8%8F-introdução)
+* [Tecnologias utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+* [Ferramentas utilizadas](#%EF%B8%8F-ferramentas-utilizadas)
+* [Serviços utilizados](#-serviços-utilizados)
+* [Funcionalidades do projeto](#-funcionalidades-do-projeto)
+* [Acesso ao projeto](#-acesso-ao-projeto)
+* [Autor](#-autor)
+* [Contato](#%EF%B8%8F-contato)
 
 # 
 
