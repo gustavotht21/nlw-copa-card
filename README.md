@@ -45,7 +45,7 @@ Figurinha personalizada criada através de uma víde-aula do youtube para prepar
 
 ## 📂 Acesso ao projeto
 
-Você pode acessar o projeto [via link](https://gustavotht21.github.io/nlw-copa-card) ou [baixar o projeto]() e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
+Você pode acessar o projeto [via link](https://gustavotht21.github.io/nlw-copa-card) ou [baixar o projeto](https://github.com/gustavotht21/nlw-copa-card/archive/refs/heads/main.zip) e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
 
 # 
 
