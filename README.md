@@ -11,14 +11,9 @@
 * [Autor](#-autor)
 * [Contato](#%EF%B8%8F-contato)
 
-# 
-
 ## ⚙️ Introdução 
 
 Figurinha personalizada criada através de uma víde-aula do youtube para preparação para a NLW Copa
-
-
-#
 
 ## 🖥️ Tecnologias utilizadas
 
@@ -35,26 +30,18 @@ Figurinha personalizada criada através de uma víde-aula do youtube para prepar
 
 - ``Github``
 
-#
-
 ## 🪚 Funcionalidades do projeto
 
-- ``Funcionalidade 1:`` Alternânica dinâmica da figurinha através de um clique
-
-#
+- ``Funcionalidade 1:`` A figurinha muda ao clicar nela
 
 ## 📂 Acesso ao projeto
 
 Você pode acessar o projeto [via link](https://gustavotht21.github.io/nlw-copa-card) ou [baixar o projeto](https://github.com/gustavotht21/nlw-copa-card/archive/refs/heads/main.zip) e iniciá-lo na IDE de sua preferência, onde quando executado irá abrir no navegador o projeto funcionando
 
-# 
-
 ## 👤 Autor
 
 | [<img src="https://github.com/gustavotht21.png" width=115><br><sub>Gustavo Casagrande Borges</sub>](https://github.com/gustavotht21) |  
 | :---: | 
-
-#
 
 ## ✉️ Contato
 
